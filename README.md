@@ -4,11 +4,10 @@ This project was developed as a part of an academic project for the coursework C
 This repository consists of the REST API developed in PHP to interact with an Android Application named UTA Mac Facility Reservation System.
 
 # About the Application
-
-• System Users:
+	System Users:
 Admin, Facility Manager, Faculty/Student
 
-• Main Features
+        Main Features
 The System helps users reserve the facilities in advance and help the facility managers monitor and maintain the highly equipped and ever busy facilities in the Maverick Activity Centre.
  
 	Facility manager 
@@ -22,7 +21,7 @@ g.	makes a facility unavailable
 h.	set no-show (sets a user to no-show)
 i.	update his own profile
   
-  Users
+        Users
 a.	Manage Profile
 b.	requests reservation
 c.	view my reserved facilities
@@ -31,7 +30,7 @@ e.	cancel my reserved facilities
 f.	view my no-shows and violations
 g.	update profile
    
-   Admin
+        Admin
 a.	Creates/Manage own profile
 b.	edit user profile
 c.	change user roles
